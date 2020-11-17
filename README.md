@@ -1,2 +1,2 @@
 # Web-Design-ChallengeResubmit
-making necessary changes to homework
+Resubmiting Web-Design homework with necessary changes.
